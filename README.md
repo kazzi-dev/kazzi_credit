@@ -1,6 +1,6 @@
 # Kazzi Credit
 
-A credit card wallet for Android and iOS. Keep all your cards in one place, see every purchase as it happens, and know exactly where your money went — in pesos.
+A credit card wallet for Android and iOS. Keep all your cards in one place, see every purchase as it happens, and know exactly where your money went in pesos.
 
 Built with Flutter. Everything stays on the phone: card numbers and the PIN live in the OS keystore, and the app ships with realistic demo data so it works without a backend.
 
